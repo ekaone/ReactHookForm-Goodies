@@ -1,10 +1,8 @@
 ## A few of samples from React Hook Form
 
-More details [React Hook Form](https://react-hook-form.com/)
+This package more simple than [Formik](https://jaredpalmer.com/formik/) and [Redux Form](https://redux-form.com/8.3.0/), try compare the compilation codes with [my scratch Formik](https://github.com/ekaone/useFormik)
 
-## Status
-
-On working 🛠
+More details [React Hook Form](https://react-hook-form.com/) 
 
 ## Author
 
