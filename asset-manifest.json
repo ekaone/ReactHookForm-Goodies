@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactHookForm-Goodies/static/css/main.156da71e.chunk.css",
+    "main.js": "/ReactHookForm-Goodies/static/js/main.8032dfe7.chunk.js",
+    "main.js.map": "/ReactHookForm-Goodies/static/js/main.8032dfe7.chunk.js.map",
+    "runtime-main.js": "/ReactHookForm-Goodies/static/js/runtime-main.5bf696d4.js",
+    "runtime-main.js.map": "/ReactHookForm-Goodies/static/js/runtime-main.5bf696d4.js.map",
+    "static/js/2.020faddb.chunk.js": "/ReactHookForm-Goodies/static/js/2.020faddb.chunk.js",
+    "static/js/2.020faddb.chunk.js.map": "/ReactHookForm-Goodies/static/js/2.020faddb.chunk.js.map",
+    "index.html": "/ReactHookForm-Goodies/index.html",
+    "precache-manifest.aa371ff3332fd7377e389c44f52b55f6.js": "/ReactHookForm-Goodies/precache-manifest.aa371ff3332fd7377e389c44f52b55f6.js",
+    "service-worker.js": "/ReactHookForm-Goodies/service-worker.js",
+    "static/css/main.156da71e.chunk.css.map": "/ReactHookForm-Goodies/static/css/main.156da71e.chunk.css.map",
+    "static/js/2.020faddb.chunk.js.LICENSE.txt": "/ReactHookForm-Goodies/static/js/2.020faddb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bf696d4.js",
+    "static/js/2.020faddb.chunk.js",
+    "static/css/main.156da71e.chunk.css",
+    "static/js/main.8032dfe7.chunk.js"
+  ]
+}
