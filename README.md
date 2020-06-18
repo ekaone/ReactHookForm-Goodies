@@ -2,7 +2,15 @@
 
 This package more simple than [Formik](https://jaredpalmer.com/formik/) and [Redux Form](https://redux-form.com/8.3.0/), try compare the compilation codes with [my scratch Formik](https://github.com/ekaone/useFormik)
 
-More details [React Hook Form](https://react-hook-form.com/) 
+More details [React Hook Form](https://react-hook-form.com/)
+
+## Screenshot
+
+<p align="center">
+  <a href="https://ekaone.github.io/ReactHookForm-Goodies/">
+    <img src="./src/assets/banner.png" alt="EMS Solution" />
+  </a>
+</p>
 
 ## Author
 

@@ -15,6 +15,7 @@ export default function SignIn() {
         }}
       >
         <form onSubmit={handleSubmit(onSubmit)}>
+          <label>Email</label>
           <input
             name="email"
             ref={register({
@@ -26,7 +27,7 @@ export default function SignIn() {
             })}
           />
           {errors.email && errors.email.message}
-
+          <label>Username</label>
           <input
             name="username"
             ref={register({

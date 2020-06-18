@@ -6,13 +6,25 @@ export default function SelectName() {
   const onSubmit = data => console.log(data);
 
   return (
-    <form onSubmit={handleSubmit(onSubmit)}>
-      <input name="firstName" ref={register} />
-      <select name="gender" ref={register}>
-        <option value="male">male</option>
-        <option value="female">female</option>
-      </select>
-      <button type="submit">Submit</button>
-    </form>
+    <div
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center"
+      }}
+    >
+      <form onSubmit={handleSubmit(onSubmit)}>
+        <label>First Name</label>
+        <input name="firstName" ref={register} />
+        <label>Select Gender</label>
+
+        <select name="gender" ref={register}>
+          <option value="male">male</option>
+          <option value="female">female</option>
+          <option value="other">No Stated</option>
+        </select>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
   );
 }
