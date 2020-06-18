@@ -1,14 +1,18 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { SignIn, SelectName } from "./views";
+import { Navigation } from "./components";
 import "./mvp.css";
-import SignIn from "./SignIn";
-import Navigation from "./Navigation";
 
 function App() {
   return (
-    <>
+    <Router>
       <Navigation />
-      <SignIn />
-    </>
+      <Switch>
+        <Route exact path="/" component={SignIn} />
+        <Route path="/select-name" component={SelectName} />
+      </Switch>
+    </Router>
   );
 }
 
